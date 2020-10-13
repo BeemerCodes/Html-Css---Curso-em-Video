@@ -4,7 +4,7 @@
 Repositório para salvar arquivos do curso de Html e Css 2020
 ```
 
-![](/home/beemer/Documentos/Html-Css---Curso-em-Video/foto.jpg)
+![](foto.jpg)
 
 ---
 
